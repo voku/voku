@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**voku/voku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+Lars Moelleken {
+  "job":      "Web Developer",
+  "birthday": "1987-11-27",
+  "country":  "Germany",
+  "city":     "Voerde (NRW)",
+  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "SEO", "..."],
+  "interest": ["Clean Code", "Tesing", "Static Code Analysis", "Linux", "..."]
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web: [moelleken.org](https://moelleken.org/)
+- E-Mail: [lars@moelleken.org](mailto:lars@moelleken.org)
+- Blog: [suckup.de](https://suckup.de/)
+- LinkedIn: [larsmoelleken](https://www.linkedin.com/in/larsmoelleken/)
+- XING: [Lars_Moelleken](https://www.xing.com/profile/Lars_Moelleken/)
