@@ -7,7 +7,7 @@ Lars Moelleken {
   "country":  "Germany",
   "city":     "Voerde (NRW)",
   "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "SEO", "..."],
-  "interest": ["Clean Code", "Tesing", "Static Code Analysis", "Linux", "..."]
+  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."]
 }
 ```
 
