@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ```json
-Lars Moelleken {
+{
+  "name":     "Lars Moelleken"
   "job":      "Web Developer",
   "birthday": "1987-11-27",
   "country":  "Germany",
@@ -14,5 +15,6 @@ Lars Moelleken {
 - Web: [moelleken.org](https://moelleken.org/)
 - E-Mail: [lars@moelleken.org](mailto:lars@moelleken.org)
 - Blog: [suckup.de](https://suckup.de/)
+- Twitter: [suckup_de](https://twitter.com/suckup_de/)
 - LinkedIn: [larsmoelleken](https://www.linkedin.com/in/larsmoelleken/)
 - XING: [Lars_Moelleken](https://www.xing.com/profile/Lars_Moelleken/)
