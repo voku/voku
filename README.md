@@ -3,12 +3,13 @@
 ```json
 {
   "name":     "Lars Moelleken"
-  "job":      "Web Developer",
+  "job":      "PHP Developer 🐘",
   "birthday": "1987-11-27",
   "country":  "Germany",
   "city":     "Voerde (NRW)",
-  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "SEO", "..."],
-  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."]
+  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "ReactNative", "jQuery", "..."],
+  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
+  "exta":     "Dad of two 💕 beautiful daughters."
 }
 ```
 
