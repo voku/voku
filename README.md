@@ -9,7 +9,7 @@
   "city":     "Voerde (NRW)",
   "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
   "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
-  "quote":    "There is nothing good unless you do it. - Erich Kästner"
+  "quote":    "There is nothing good unless you do it. - Erich Kästner",
   "extra":    "Dad of three great kids."
 }
 ```
