@@ -44,12 +44,12 @@
 
 ## Links
 
-- 🌐 <a href="https://voku.github.io/lars_moelleken/">Portfolio</a>
-- 🏠 <a href="https://moelleken.org/">Website</a>
-- 📫 <a href="mailto:lars@moelleken.org">lars@moelleken.org</a>
-- 💼 <a href="https://www.linkedin.com/in/larsmoelleken/">LinkedIn</a>
-- 🧪 <a href="https://github.com/voku">GitHub</a>
-- ✍️ <a href="https://suckup.de/">Blog</a>
+- 🌐 [Portfolio](https://voku.github.io/lars_moelleken/)
+- 🏠 [Website](https://moelleken.org/)
+- 📫 [lars@moelleken.org](mailto:lars@moelleken.org)
+- 💼 [LinkedIn](https://www.linkedin.com/in/larsmoelleken/)
+- 🧪 [GitHub](https://github.com/voku)
+- ✍️ [Blog](https://suckup.de/)
 
 ## Latest dev.to posts
 
