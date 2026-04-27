@@ -1,32 +1,43 @@
-<h1>Lars Moelleken</h1>
+<h1 align="center">Lars Moelleken</h1>
 
+<p align="center"><em>Open to Work · Voerde (Niederrhein), NRW</em></p>
 
 ```json
 {
-  "job":      "Developer",
-  "birthday": "1987-11-27",
-  "country":  "Germany",
-  "city":     "Voerde (NRW)",
-  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
-  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
-  "quote":    "There is nothing good unless you do it. - Erich Kästner",
-  "extra":    "Dad of three great kids."
+  "name"       : "Lars Moelleken",
+  "profession" : "Senior PHP Developer & Software Architect",
+  "base"       : "Ork, Voerde, NRW, Germany",
+  "fun_fact"   : "Yes, Ork is a real place — no orcs, just clean code",
+  "open_to"    : "remote work, interesting problems, legacy rescues",
+  "focus"      : ["PHP", "Legacy Modernization", "Clean Architecture", "Static Analysis", "CI/CD"],
+  "principles" : [
+    "Eliminate root causes, not symptoms",
+    "Modernize legacy without full rewrites",
+    "PHPStan + Rector + php-cs-fixer + tests = standard",
+    "Optimize for maintainability and reproducibility"
+  ]
 }
 ```
 
-<br>
+<p align="center">
+  <img alt="GitHub contribution statistics showing repository activity and code contributions for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
+</p>
 
-<a href="https://github.com/voku"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true" align="right" height="150" /></a>
+## Stack
 
-|  Topic | Link |
-| ------------- | ------------- |
-| Web  | <a target="_blank" href="https://moelleken.org/"><img src="https://img.shields.io/badge/moelleken.org-22a2b0?style=for-the-badge&logo=&logoColor=white" alt="moelleken.org"></a>  |
-| E-Mail  | <a target="_blank" href="mailto:lars@moelleken.org"><img src="https://img.shields.io/badge/lars@moelleken.org-22a2b0?style=for-the-badge&logo=mail&logoColor=white" alt="lars@moelleken.org"></a>  |
-| Blog  | <a target="_blank" href="https://suckup.de/"><img src="https://img.shields.io/badge/suckup.de-e44041?style=for-the-badge&logo=wordpress&logoColor=white" alt="suckup.de"></a>  |
-| Twitter  | <a target="_blank" href="https://twitter.com/suckup_de/"><img src="https://img.shields.io/twitter/follow/suckup_de?style=for-the-badge&logo=twitter&color=1d9bf0" alt="suckup_de"></a>  |
-| YouTube  | <a target="_blank" href="https://www.youtube.com/c/larsmoelleken"><img src="https://img.shields.io/youtube/channel/views/UC_IC80pLfGNdpzesacY2b6A?style=for-the-badge&logo=YouTube&color=FF0000" alt="larsmoelleken"></a>  |  
-| LinkedIn  | <a target="_blank" href="https://www.linkedin.com/in/larsmoelleken/"><img src="https://img.shields.io/badge/larsmoelleken-0E76A8?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="larsmoelleken"></a>  |
-| XING  | <a target="_blank" href="https://www.xing.com/profile/Lars_Moelleken/"><img src="https://img.shields.io/badge/Lars_Moelleken-126567?style=for-the-badge&logo=XING&logoColor=white" alt="Lars_Moelleken"></a>  |
+`PHP` `MySQL / MariaDB` `PostgreSQL` `HTML5` `CSS / SASS` `JavaScript` `TypeScript` `Docker` `Linux` `Bash` `PHPStan` `Rector`
+
+## Links
+
+- 🌐 [Portfolio](https://voku.github.io/lars_moelleken/)
+- 🏠 [Website](https://moelleken.org/)
+- 📫 [lars@moelleken.org](mailto:lars@moelleken.org)
+- 💼 [LinkedIn](https://www.linkedin.com/in/larsmoelleken/)
+- 🤝 [XING](https://www.xing.com/profile/Lars_Moelleken)
+- 🐦 [X / Twitter](https://x.com/voku)
+- 📺 [YouTube](https://www.youtube.com/@voku)
+- 🐙 [GitHub](https://github.com/voku)
+- ✍️ [Blog](https://suckup.de/)
 
 ## Latest dev.to posts
 
@@ -40,4 +51,4 @@
 
 <a target="_blank" href="https://dev.to/suckup_de">View all posts on dev.to</a>
 
- ![](https://hit.yhype.me/github/profile?user_id=264695)
+![](https://hit.yhype.me/github/profile?user_id=264695)
