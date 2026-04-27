@@ -1,0 +1,111 @@
+name: Update dev.to posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run daily at 06:00 UTC.
+    - cron: '0 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-devto-posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Refresh Latest dev.to posts section
+        env:
+          README_PATH: README.md
+          DEVTO_FEED_URL: https://dev.to/feed/suckup_de
+          DEVTO_POST_LIMIT: '5'
+        run: |
+          python <<'PY'
+          from __future__ import annotations
+
+          import os
+          import re
+          import sys
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+
+          readme_path = os.environ["README_PATH"]
+          feed_url = os.environ["DEVTO_FEED_URL"]
+          post_limit = max(1, int(os.environ.get("DEVTO_POST_LIMIT", "5")))
+          start_marker = "<!-- DEVTO-POSTS:START -->"
+          end_marker = "<!-- DEVTO-POSTS:END -->"
+
+          with open(readme_path, "r", encoding="utf-8") as readme_file:
+            readme_content = readme_file.read()
+
+          pattern = re.compile(
+            rf"({re.escape(start_marker)}\n)(.*?)(\n{re.escape(end_marker)})",
+            re.DOTALL,
+          )
+
+          if not pattern.search(readme_content):
+            print("README markers not found.", file=sys.stderr)
+            sys.exit(1)
+
+          try:
+            with urllib.request.urlopen(feed_url, timeout=20) as response:
+              feed_content = response.read()
+
+            root = ET.fromstring(feed_content)
+            channel = root.find("channel")
+            if channel is None:
+              raise ValueError("RSS channel missing.")
+
+            items = channel.findall("item")
+            if not items:
+              raise ValueError("No posts found in feed.")
+
+            lines: list[str] = []
+            for item in items[:post_limit]:
+              title = (item.findtext("title") or "").strip()
+              link = (item.findtext("link") or "").strip()
+              pub_date_raw = (item.findtext("pubDate") or "").strip()
+
+              if not title or not link:
+                continue
+
+              date_suffix = ""
+              if pub_date_raw:
+                try:
+                  published_at = parsedate_to_datetime(pub_date_raw)
+                  date_suffix = f" — {published_at.date().isoformat()}"
+                except (TypeError, ValueError, IndexError):
+                  date_suffix = ""
+
+              lines.append(f"- [{title}]({link}){date_suffix}")
+
+            if not lines:
+              raise ValueError("No complete post entries found in feed.")
+          except Exception as error:
+            print(f"Skipping README update: {error}")
+            sys.exit(0)
+
+          replacement = f"{start_marker}\n" + "\n".join(lines) + f"\n{end_marker}"
+          updated_content = pattern.sub(replacement, readme_content, count=1)
+
+          with open(readme_path, "w", encoding="utf-8") as readme_file:
+            readme_file.write(updated_content)
+          PY
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update dev.to posts"
+          git push
