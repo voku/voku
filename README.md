@@ -1,7 +1,7 @@
 <h1 align="center">Lars Moelleken</h1>
 
 <p align="center">
-  <strong>Senior PHP Developer &amp; Software Architect</strong><br>
+  <strong>Senior PHP Developer & Software Architect</strong><br>
   Voerde (Niederrhein), NRW, Germany · Open to Work
 </p>
 
@@ -27,7 +27,7 @@
 ```
 
 <p align="center">
-  <img alt="GitHub statistics for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
+  <img alt="GitHub contribution statistics showing repository activity and code contributions for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
 </p>
 
 ## Stack
