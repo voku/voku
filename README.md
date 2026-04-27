@@ -5,35 +5,51 @@
   Voerde (Niederrhein), NRW, Germany · Open to Work
 </p>
 
-<p align="center">
-  <a href="https://voku.github.io/lars_moelleken/">Portfolio</a> ·
-  <a href="https://moelleken.org/">Website</a> ·
-  <a href="mailto:lars@moelleken.org">Email</a> ·
-  <a href="https://www.linkedin.com/in/larsmoelleken/">LinkedIn</a> ·
-  <a href="https://github.com/voku">GitHub</a> ·
-  <a href="https://suckup.de/">Blog</a>
-</p>
+```json
+{
+  "name": "Lars Moelleken",
+  "role": "Senior PHP Developer & Software Architect",
+  "location": "Voerde (Niederrhein), NRW, Germany",
+  "focus": [
+    "PHP",
+    "Legacy Modernization",
+    "Clean Architecture",
+    "Static Analysis",
+    "CI/CD"
+  ],
+  "principles": [
+    "Eliminate root causes",
+    "Modernize legacy without full rewrites",
+    "Use PHPStan, Rector, php-cs-fixer, and tests",
+    "Optimize for maintainability and reproducibility"
+  ],
+  "links": {
+    "portfolio": "https://voku.github.io/lars_moelleken/",
+    "website": "https://moelleken.org/",
+    "email": "mailto:lars@moelleken.org",
+    "linkedin": "https://www.linkedin.com/in/larsmoelleken/",
+    "github": "https://github.com/voku",
+    "blog": "https://suckup.de/"
+  }
+}
+```
 
 <p align="center">
   <img alt="GitHub stats for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
 </p>
 
-## About
-
-Senior PHP Developer with 20+ years of experience in developing, modernizing, and advancing web systems.
-
-My focus is on PHP, legacy modernization, clean software architecture, static analysis, and robust CI/CD pipelines. I work on business-critical systems that need structure, performance, security, and maintainability.
-
-## What defines me
-
-- I don't just fix bugs, I eliminate root causes.
-- I modernize legacy code without complete rewrites.
-- I establish tools like PHPStan, Rector, php-cs-fixer, and tests as standards.
-- I think in terms of maintainability, traceability, and reproducibility.
-
-## Core tech
+## Stack
 
 `PHP` `MySQL / MariaDB` `PostgreSQL` `HTML5` `CSS / SASS` `JavaScript` `TypeScript` `Docker` `Linux` `Bash` `PHPStan` `Rector`
+
+## Links
+
+- 🌐 <a href="https://voku.github.io/lars_moelleken/">Portfolio</a>
+- 🏠 <a href="https://moelleken.org/">Website</a>
+- 📫 <a href="mailto:lars@moelleken.org">lars@moelleken.org</a>
+- 💼 <a href="https://www.linkedin.com/in/larsmoelleken/">LinkedIn</a>
+- 🧪 <a href="https://github.com/voku">GitHub</a>
+- ✍️ <a href="https://suckup.de/">Blog</a>
 
 ## Latest dev.to posts
 
