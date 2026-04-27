@@ -22,20 +22,12 @@
     "Modernize legacy without full rewrites",
     "Use PHPStan, Rector, php-cs-fixer, and tests",
     "Optimize for maintainability and reproducibility"
-  ],
-  "links": {
-    "portfolio": "https://voku.github.io/lars_moelleken/",
-    "website": "https://moelleken.org/",
-    "email": "mailto:lars@moelleken.org",
-    "linkedin": "https://www.linkedin.com/in/larsmoelleken/",
-    "github": "https://github.com/voku",
-    "blog": "https://suckup.de/"
-  }
+  ]
 }
 ```
 
 <p align="center">
-  <img alt="GitHub stats for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
+  <img alt="GitHub contribution statistics for Lars Moelleken showing commits, pull requests, issues, and stars" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
 </p>
 
 ## Stack
