@@ -34,6 +34,8 @@
 - 📫 [lars@moelleken.org](mailto:lars@moelleken.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/larsmoelleken/)
 - 🤝 [XING](https://www.xing.com/profile/Lars_Moelleken)
+- 🐦 [X / Twitter](https://x.com/voku)
+- 📺 [YouTube](https://www.youtube.com/@voku)
 - 🐙 [GitHub](https://github.com/voku)
 - ✍️ [Blog](https://suckup.de/)
 
