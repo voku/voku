@@ -35,7 +35,11 @@
 ## Latest dev.to posts
 
 <!-- DEVTO-POSTS:START -->
-- Latest posts will appear here soon.
+- [Coding With Kids: From Paper Sketch to Playable Game](https://dev.to/suckup_de/coding-with-kids-from-paper-sketch-to-playable-game-49cm) — 2026-02-16
+- [PHP Top Salaries, 100% Remote – Surviving the AI Compression Era](https://dev.to/suckup_de/php-top-salaries-100-remote-surviving-the-ai-compression-era-5df0) — 2026-02-15
+- [The System Inspector: We need to Approve the Code](https://dev.to/suckup_de/the-system-inspector-we-need-to-approve-the-code-5agc) — 2026-02-03
+- [How to Use LLMs for Coding Without Losing Your Mind: A Pragmatic Guide](https://dev.to/suckup_de/how-to-use-llms-for-coding-without-losing-your-mind-a-pragmatic-guide-1dap) — 2026-01-29
+- [PHP: Why I Use Static Analysis](https://dev.to/suckup_de/php-why-i-use-static-analysis-25ik) — 2026-01-26
 <!-- DEVTO-POSTS:END -->
 
 <a target="_blank" href="https://dev.to/suckup_de">View all posts on dev.to</a>
