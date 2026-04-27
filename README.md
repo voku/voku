@@ -27,7 +27,7 @@
 ```
 
 <p align="center">
-  <img alt="GitHub activity statistics for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
+  <img alt="GitHub stats card showing activity and repository metrics for Lars Moelleken" src="https://github-readme-stats.vercel.app/api?username=voku&show_icons=true&hide_border=true" height="165" />
 </p>
 
 ## Stack
@@ -40,7 +40,7 @@
 - 🏠 [Website](https://moelleken.org/)
 - 📫 [lars@moelleken.org](mailto:lars@moelleken.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/larsmoelleken/)
-- 🧪 [GitHub](https://github.com/voku)
+- 🐙 [GitHub](https://github.com/voku)
 - ✍️ [Blog](https://suckup.de/)
 
 ## Latest dev.to posts
