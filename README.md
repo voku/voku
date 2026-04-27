@@ -1,26 +1,19 @@
 <h1 align="center">Lars Moelleken</h1>
 
-<p align="center">
-  <strong>Senior PHP Developer & Software Architect</strong><br>
-  Voerde (Niederrhein), NRW, Germany · Open to Work
-</p>
+<p align="center"><em>Open to Work · Voerde (Niederrhein), NRW</em></p>
 
 ```json
 {
-  "name": "Lars Moelleken",
-  "role": "Senior PHP Developer & Software Architect",
-  "location": "Voerde (Niederrhein), NRW, Germany",
-  "focus": [
-    "PHP",
-    "Legacy Modernization",
-    "Clean Architecture",
-    "Static Analysis",
-    "CI/CD"
-  ],
-  "principles": [
-    "Eliminate root causes",
+  "name"       : "Lars Moelleken",
+  "profession" : "Senior PHP Developer & Software Architect",
+  "base"       : "Ork, Voerde, NRW, Germany",
+  "fun_fact"   : "Yes, Ork is a real place — no orcs, just clean code",
+  "open_to"    : "remote work, interesting problems, legacy rescues",
+  "focus"      : ["PHP", "Legacy Modernization", "Clean Architecture", "Static Analysis", "CI/CD"],
+  "principles" : [
+    "Eliminate root causes, not symptoms",
     "Modernize legacy without full rewrites",
-    "Use PHPStan, Rector, php-cs-fixer, and tests",
+    "PHPStan + Rector + php-cs-fixer + tests = standard",
     "Optimize for maintainability and reproducibility"
   ]
 }
@@ -40,6 +33,7 @@
 - 🏠 [Website](https://moelleken.org/)
 - 📫 [lars@moelleken.org](mailto:lars@moelleken.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/larsmoelleken/)
+- 🤝 [XING](https://www.xing.com/profile/Lars_Moelleken)
 - 🐙 [GitHub](https://github.com/voku)
 - ✍️ [Blog](https://suckup.de/)
 
