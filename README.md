@@ -14,12 +14,8 @@
 }
 ```
 
-<a href="https://github.com/voku">
-    <img alt="Git Stats" src="https://github-readme-stats-fast.vercel.app/api?username=voku&show_icons=true" align="right" />
-</a>
-<a href="https://github.com/voku">
-    <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voku" align="right" />
-</a>
+<img alt="Git Stats" src="https://github-readme-stats-fast.vercel.app/api?username=voku&show_icons=true" align="right" />
+<img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voku" align="right" />
 
 <div align="left">
 
