@@ -34,11 +34,11 @@
 ## Latest dev.to posts
 
 <!-- DEVTO-POSTS:START -->
+- [Multi-Line Formatting by Default](https://dev.to/suckup_de/multi-line-formatting-by-default-chi) — 2026-05-27
+- [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd) — 2026-05-26
+- [The Singleton Labyrinth](https://dev.to/suckup_de/the-singleton-labyrinth-19je) — 2026-05-26
 - [Stop Writing Architecture Rules in Confluence](https://dev.to/suckup_de/stop-writing-architecture-rules-in-confluence-4bn2) — 2026-05-15
 - [Coding With Kids: From Paper Sketch to Playable Game](https://dev.to/suckup_de/coding-with-kids-from-paper-sketch-to-playable-game-49cm) — 2026-02-16
-- [PHP Top Salaries, 100% Remote – Surviving the AI Compression Era](https://dev.to/suckup_de/php-top-salaries-100-remote-surviving-the-ai-compression-era-5df0) — 2026-02-15
-- [The System Inspector: We need to Approve the Code](https://dev.to/suckup_de/the-system-inspector-we-need-to-approve-the-code-5agc) — 2026-02-03
-- [How to Use LLMs for Coding Without Losing Your Mind: A Pragmatic Guide](https://dev.to/suckup_de/how-to-use-llms-for-coding-without-losing-your-mind-a-pragmatic-guide-1dap) — 2026-01-29
 <!-- DEVTO-POSTS:END -->
 
 <a target="_blank" href="https://dev.to/suckup_de">View all posts on dev.to</a>
