@@ -34,11 +34,11 @@
 ## Latest dev.to posts
 
 <!-- DEVTO-POSTS:START -->
+- [Distill Coding Agent Learnings](https://dev.to/suckup_de/distill-coding-agent-learnings-31og) — 2026-07-16
 - [Multi-Line Formatting by Default](https://dev.to/suckup_de/multi-line-formatting-by-default-chi) — 2026-05-27
 - [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd) — 2026-05-26
 - [The Singleton Labyrinth](https://dev.to/suckup_de/the-singleton-labyrinth-19je) — 2026-05-26
 - [Stop Writing Architecture Rules in Confluence](https://dev.to/suckup_de/stop-writing-architecture-rules-in-confluence-4bn2) — 2026-05-15
-- [Coding With Kids: From Paper Sketch to Playable Game](https://dev.to/suckup_de/coding-with-kids-from-paper-sketch-to-playable-game-49cm) — 2026-02-16
 <!-- DEVTO-POSTS:END -->
 
 <a target="_blank" href="https://dev.to/suckup_de">View all posts on dev.to</a>
