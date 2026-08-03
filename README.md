@@ -34,11 +34,11 @@
 ## Latest dev.to posts
 
 <!-- DEVTO-POSTS:START -->
+- [You Bought the Machine. Now Build the Software Factory.](https://dev.to/suckup_de/you-bought-the-machine-now-build-the-software-factory-1nhp) — 2026-08-02
+- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10) — 2026-08-02
 - [Distill Coding Agent Learnings](https://dev.to/suckup_de/distill-coding-agent-learnings-31og) — 2026-07-16
 - [Multi-Line Formatting by Default](https://dev.to/suckup_de/multi-line-formatting-by-default-chi) — 2026-05-27
 - [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd) — 2026-05-26
-- [The Singleton Labyrinth](https://dev.to/suckup_de/the-singleton-labyrinth-19je) — 2026-05-26
-- [Stop Writing Architecture Rules in Confluence](https://dev.to/suckup_de/stop-writing-architecture-rules-in-confluence-4bn2) — 2026-05-15
 <!-- DEVTO-POSTS:END -->
 
 <a target="_blank" href="https://dev.to/suckup_de">View all posts on dev.to</a>
